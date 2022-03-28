@@ -405,7 +405,6 @@ Bannerghatta Road,4,1200.0,2.0,125.0
 Rajaji Nagar,3,2390.0,3.0,410.0
 Rajaji Nagar,7,12000.0,6.0,2200.0
 Sultan Palaya,2,550.0,1.0,62.0
-Kengeri,1,,1.0,18.5
 Sanne Amanikere,2,1185.0,2.0,38.0
 Kengeri,2,750.0,2.0,38.0
 Mahalakshmi Layout,6,1200.0,7.0,250.0
@@ -641,7 +640,6 @@ Jalahalli East,1,750.0,1.0,40.0
 Haralur Road,2,1194.0,2.0,47.0
 Hennur Road,3,1500.0,2.0,62.0
 Poornapragna Housing Society Layout,2,1160.0,2.0,52.2
-Arekere,9,,9.0,265.0
 Hosakerehalli,3,2378.0,3.0,262.0
 Sarjapur,2,1128.0,2.0,60.0
 Hebbal,3,1500.0,3.0,150.0
@@ -766,7 +764,6 @@ Vishwapriya Layout,2,820.0,2.0,30.0
 Banashankari Stage VI,2,1177.5,2.0,59.935
 Battarahalli,3,1779.0,3.0,89.61
 HMT Layout,2,1105.0,2.0,58.0
-Basavanagara,1,,2.0,93.0
 Whitefield,3,1650.0,3.0,60.0
 Jalahalli,2,1694.0,2.0,150.0
 Hosakerehalli,3,2376.0,3.0,203.0
@@ -862,7 +859,6 @@ KR Puram,2,1225.0,2.0,46.55
 Electronic City,2,1342.0,2.0,73.3
 Uttarahalli,2,1345.0,2.0,67.0
 Kodigehaali,3,1320.0,3.0,65.0
-Singapura Village,2,,2.0,45.0
 Raja Rajeshwari Nagar,2,1140.0,2.0,49.39
 Battarahalli,2,1300.0,2.0,50.0
 Hosa Road,3,1652.0,3.0,85.0
@@ -1008,7 +1004,6 @@ Vadarpalya,2,1141.0,2.0,62.0
 Attibele,1,400.0,1.0,12.0
 Chandapura,2,1400.0,2.0,60.0
 Kattigenahalli,7,4100.0,7.0,140.0
-Marathi Layout,1,,1.0,110.0
 Weavers Colony,1,15.0,1.0,30.0
 Raghavendra Nagar,2,1175.0,2.0,48.27
 Sahakara Nagar,2,1100.0,2.0,56.0
@@ -1075,7 +1070,6 @@ Ananth Nagar,1,500.0,1.0,14.0
 Sarjapur  Road,2,1346.0,2.0,61.92
 Canara Bank Layout,3,1600.0,3.0,90.0
 Naganathapura,2,720.0,2.0,120.0
-Narasapura,2,,2.0,29.5
 Manjunath Nagar,4,1200.0,4.0,135.0
 Basapura,2,1200.0,2.0,35.0
 Channasandra,3,1340.0,2.0,48.33
@@ -1387,7 +1381,6 @@ Doddathoguru,2,850.0,2.0,25.0
 Harlur,2,1197.0,2.0,84.0
 Byadarahalli,4,3500.0,3.0,450.0
 Poorna Pragna Layout,2,920.0,2.0,39.55
-Chamrajpet,9,,9.0,296.0
 Raja Rajeshwari Nagar,2,1105.0,2.0,65.0
 Yeshwanthpur,3,1850.0,3.0,100.0
 Judicial Layout,3,1300.0,3.0,64.0
@@ -1698,7 +1691,6 @@ Gunjur,3,1600.0,3.0,75.0
 Electronics City Phase 1,3,1750.0,3.0,84.0
 Whitefield,2,1125.0,2.0,62.0
 Andrahalli,4,2200.0,4.0,235.0
-Singena Agrahara,3,,3.0,95.0
 HBR Layout,3,2800.0,2.0,200.0
 R.T. Nagar,2,1200.0,2.0,120.0
 Vittal Nagar,2,1000.0,2.0,50.0
@@ -1728,7 +1720,6 @@ Bannerghatta Road,3,1460.0,2.0,72.0
 Whitefield,3,1200.0,3.0,68.5
 Laggere,1,1200.0,1.0,48.0
 Kammasandra,3,912.0,2.0,39.0
-Hosa Road,3,,3.0,115.0
 Victoria Layout,5,2400.0,5.0,625.0
 Prithvi Layout,4,2028.0,4.0,162.0
 Mysore Road,2,980.0,2.0,45.47
@@ -1804,7 +1795,6 @@ Babusapalaya,3,1167.0,2.0,39.98
 Bommasandra,2,1035.0,2.0,41.73
 Kengeri,3,1188.0,2.0,38.0
 2nd Stage Nagarbhavi,5,1200.0,4.0,285.0
-Sarjapur,3,,3.0,76.0
 Nagarbhavi,1,884.0,2.0,36.0
 Haralur Road,2,1194.0,2.0,46.0
 Hoodi,2,1026.0,2.0,60.87
@@ -2291,7 +2281,6 @@ Thigalarapalya,4,3122.0,6.0,245.0
 Harlur,2,1290.0,2.0,85.0
 1st Block HRBR Layout,3,2300.0,3.0,80.0
 Kannamangala,4,3000.0,4.0,200.0
-Whitefield,4,,4.0,270.0
 Austin Town,1,400.0,1.0,14.0
 Banashankari,3,1340.0,2.0,53.6
 Malleshwaram,2,900.0,2.0,95.0
@@ -2858,7 +2847,6 @@ Jeevan bima nagar,2,965.0,2.0,45.0
 Esther Enclave Layout,5,1600.0,5.0,140.0
 Kothannur,2,1070.0,2.0,42.79
 Raja Rajeshwari Nagar,3,1570.0,2.0,65.0
-Volagerekallahalli,2,,2.0,38.0
 Keerthi Layout,2,780.0,2.0,25.0
 Ganga Nagar Extension,3,1000.0,2.0,65.0
 9th Phase JP Nagar,4,1200.0,3.0,188.0
@@ -3203,7 +3191,6 @@ Whitefield,1,905.0,1.0,55.0
 Nanjappa Layout,2,1069.0,2.0,55.0
 Sarjapura - Attibele Road,2,829.0,2.0,22.8
 Koramangala,2,1900.0,2.0,200.0
-Dodda Banaswadi,5,,5.0,140.0
 Sarjapur  Road,3,1300.0,3.0,60.0
 Channasandra,2,1115.0,2.0,33.45
 Rajaji Nagar,3,2409.0,3.0,360.0
@@ -3260,7 +3247,6 @@ Thanisandra,2,1050.0,2.0,46.0
 Laggere,5,2800.0,5.0,125.0
 MCECHS  layout,3,1500.0,2.0,65.0
 Geddalahalli,2,1400.0,2.0,65.0
-Whitefield,4,,4.0,378.0
 8th Phase JP Nagar,4,2700.0,4.0,130.0
 Bommasandra,2,920.0,2.0,37.46
 Sarjapur  Road,3,1200.0,3.0,70.0
@@ -4084,7 +4070,6 @@ Kothanur,3,1436.0,3.0,70.0
 Marathahalli,4,4000.0,4.0,220.0
 Somasundara Palya,3,2372.0,3.0,140.0
 R.T. Nagar,6,1500.0,6.0,240.0
-BTM Layout,3,,3.0,10.0
 Rajaji Nagar,2,1200.0,2.0,150.0
 Rayasandra,2,1016.0,2.0,58.0
 Dodda Nekkundi,2,1100.0,2.0,48.0
@@ -4263,7 +4248,6 @@ Yeshwanthpur,1,605.0,1.0,41.745
 Hormavu,2,1153.0,2.0,65.0
 Virat Nagar,2,2080.0,2.0,150.0
 Hulimavu,2,1255.0,2.0,69.0
-Bannerghatta Road,4,,5.0,260.0
 Marathahalli,3,1583.0,3.0,109.0
 Kundalahalli Colony,2,1505.0,2.0,90.0
 Kathriguppe,3,1365.0,2.0,75.08
@@ -5418,7 +5402,6 @@ Indira Nagar,5,1000.0,5.0,180.0
 Ramagondanahalli,3,2257.0,3.0,159.0
 Vittasandra,2,1246.0,2.0,65.4
 Gunjur,2,1080.0,2.0,41.0
-Kannur,6,,6.0,75.0
 Varthur,3,1360.0,2.0,85.0
 Yelenahalli,2,1260.0,2.0,47.88
 Kengeri Satellite Town,4,1200.0,3.0,110.0
@@ -5500,7 +5483,6 @@ Hebbal,3,1255.0,3.0,77.68
 Moodalapalya,6,840.0,8.0,120.0
 Panathur,2,1198.0,2.0,82.0
  Devarachikkanahalli,3,1200.0,3.0,160.0
-Frazer Town,3,,3.0,180.0
 Nelamangala,4,2600.0,3.0,95.0
 Thigalarapalya,3,2072.0,4.0,139.0
 Pattandur Agrahara,2,797.0,2.0,32.0
@@ -5594,7 +5576,6 @@ Hebbal,2,1138.0,2.0,110.0
 Sarjapur  Road,3,2556.0,3.0,169.0
 TC Palaya,3,1200.0,2.0,66.5
 Anantapura,2,1200.0,2.0,37.0
-Thanisandra,3,,4.0,185.0
 Anekal,2,1200.0,1.0,36.0
 Whitefield,3,1870.0,3.0,138.0
 Panathur,2,1199.0,2.0,86.0
@@ -5631,7 +5612,6 @@ Kaggadasapura,3,1340.0,3.0,66.0
 Ananth Nagar,2,937.0,2.0,35.0
 Lakkasandra,7,1500.0,6.0,210.0
 JP Nagar,1,750.0,1.0,52.5
-Judicial Layout,5,,6.0,400.0
 Shampura,3,1475.0,3.0,78.0
 Singapura Village,4,2230.0,4.0,130.0
 Jnanabharathi Layout,4,2200.0,5.0,100.0
@@ -5671,7 +5651,6 @@ Attibele,2,850.0,1.0,25.0
 Banashankari,2,1200.0,2.0,60.0
 "Bellandur, ",4,3160.0,4.0,206.0
 Hoodi,3,1769.0,3.0,96.87
-Jigani,4,,3.0,160.0
 Bhoganhalli,4,1554.3,4.0,131.0
 Haralur Road,2,1243.0,2.0,46.0
 2nd Block Jayanagar,4,4920.0,5.0,1150.0
@@ -5937,7 +5916,6 @@ Whitefield,2,1301.0,2.0,65.0
 Devanahalli,1,658.0,1.0,34.0
 Sahakara Nagar,3,1350.0,3.0,250.0
 Whitefield,3,2500.0,3.0,280.0
-1st Phase JP Nagar,1,,1.0,63.0
 Chandapura,3,1208.51,3.0,42.0
 Raja Rajeshwari Nagar,2,1133.0,2.0,38.41
 Shettigere,3,1760.0,2.0,116.0
@@ -6228,7 +6206,6 @@ HBR Layout,3,1656.0,3.0,90.0
 Kaveri Nagar,3,1900.0,3.0,155.0
 Ramagondanahalli,3,1910.0,3.0,142.0
 Mysore Road,2,1003.0,2.0,43.0
-Chickpet,2,,2.0,48.0
 Whitefield,3,1495.0,2.0,67.0
 Thanisandra,3,2172.0,3.0,76.02
 Sarakki Nagar,4,2400.0,4.0,358.0
@@ -6263,7 +6240,6 @@ Sarjapur  Road,3,1826.0,3.0,130.0
 Sarjapur  Road,4,2600.0,4.0,98.0
 Kasavanhalli,3,1667.0,3.0,92.0
 Thanisandra,2,934.0,2.0,55.0
-JP Nagar,3,,3.0,69.34
 Mahadevpura,3,1620.0,2.0,76.0
 Electronic City,2,1070.0,2.0,47.0
 Hosur Road,5,3600.0,5.0,180.0
@@ -6293,7 +6269,6 @@ Chikkabanavar,2,600.0,1.0,25.0
 Chandapura,1,645.0,1.0,16.45
 Thanisandra,2,1185.0,2.0,44.0
 Electronics City Phase 1,2,1190.0,2.0,68.0
-Harohalli,2,,2.0,200.0
 Whitefield,4,2856.0,5.0,158.5
 Whitefield,2,1355.0,2.0,73.0
 KR Puram,2,1200.0,1.0,65.0
@@ -6509,7 +6484,6 @@ Electronics City Phase 1,3,1450.0,3.0,72.54
 Shivaji Nagar,1,3820.0,1.0,306.0
 Thyagaraja Nagar,5,2000.0,4.0,145.0
 Choodasandra,2,1215.0,2.0,59.0
-5 Bedroom Farm House in Lakshmipura,5,,6.0,550.0
 Yelachenahalli,3,1330.0,3.0,73.5
 Raja Rajeshwari Nagar,2,1178.0,2.0,75.0
 Hulimavu,4,1500.0,4.0,192.0
@@ -6549,7 +6523,6 @@ Electronic City,2,1140.0,2.0,70.93
 Chennammana Kere,2,1145.0,2.0,58.4
 RMV Extension Stage 2,3,1862.0,3.0,120.0
  Devarachikkanahalli,2,947.0,2.0,43.0
-Langford Town,4,,4.0,211.0
 Chandra Layout,3,700.0,3.0,195.0
 Kalena Agrahara,2,1120.0,2.0,40.0
 Sadanand Nagar,3,2700.0,3.0,200.0
@@ -6906,7 +6879,6 @@ Hennur Road,2,1232.0,2.0,74.0
 Anekal,2,766.0,2.0,28.0
 Banashankari Stage III,5,1200.0,5.0,180.0
 Kanakpura Road,1,525.0,1.0,27.0
-Hosa Road,3,,3.0,109.0
 JP Nagar,3,1452.0,2.0,41.0
 Choodasandra,3,1254.0,2.0,65.0
 MS Pallya,5,3600.0,5.0,110.0
@@ -6953,7 +6925,6 @@ Rajiv Nagar,4,2340.0,5.0,129.0
 Rayasandra,3,1179.0,2.0,55.0
 Kodigehaali,2,1013.0,2.0,51.0
 Uttarahalli,2,1160.0,2.0,40.6
-Thyagaraja Nagar,8,,6.0,290.0
 7th Phase JP Nagar,2,1200.0,2.0,62.5
 Nrupathunga Nagar,7,1200.0,5.0,80.0
 Uttarahalli,3,1255.0,2.0,50.19
@@ -7200,7 +7171,6 @@ Jyothi Nagar,2,959.0,2.0,42.5
 Kambipura,2,883.0,2.0,37.0
 Rachenahalli,2,1050.0,2.0,55.5
 Yelahanka,2,1390.0,2.0,70.21
-Hulimavu,2,,2.0,46.0
 Kenchenahalli,3,1280.0,2.0,69.0
 Lingarajapuram,7,1280.0,5.0,150.0
 Yelahanka,3,1614.0,3.0,95.0
@@ -7286,7 +7256,6 @@ Malleshpalya,3,1200.0,3.0,149.0
 Indra Nagar,8,1000.0,7.0,160.0
 Mysore Road,3,1500.0,3.0,74.0
 Whitefield,4,4400.0,5.0,500.0
-Kanakpura Road,1,,1.0,125.0
 Moodalapalya,1,600.0,1.0,52.0
 Whitefield,2,1180.0,2.0,70.0
 Kadugodi,2,1010.0,2.0,50.0
@@ -7471,7 +7440,6 @@ CMH Road,3,2665.0,3.0,350.0
 Kanakapura,4,2130.0,4.0,120.0
 Harlur,3,1749.0,3.0,120.0
 Subramanyapura,2,1260.0,2.0,108.0
-Doddaballapur,3,,2.0,48.0
 6th Phase JP Nagar,2,1170.0,2.0,120.0
 Ankappa Layout,3,1670.0,3.0,75.0
 Hennur Road,3,2264.0,3.0,168.0
@@ -7558,7 +7526,6 @@ Banashankari Stage III,2,1304.0,2.0,111.0
 Jakkur,3,1220.0,2.0,49.0
 Budigere,3,1636.0,3.0,85.0
 7th Phase JP Nagar,3,1415.0,3.0,65.0
-Bommenahalli,3,,3.0,217.0
 Green Glen Layout,3,1728.0,3.0,125.0
 7th Phase JP Nagar,3,1680.0,3.0,125.0
 Venkatapura,2,1235.0,2.0,140.0
@@ -7675,7 +7642,6 @@ Indira Nagar,2,1475.0,2.0,171.0
 JP Nagar,4,3000.0,3.0,150.0
 KG Halli,1,375.0,1.0,26.0
 Balagere,2,1007.0,2.0,66.0
-Kanakpura Road,1,,1.0,125.0
 Cubbon Road,4,5422.0,6.0,1900.0
 Hennur Road,2,1020.0,2.0,47.0
 Lavelle Road,2,1000.0,2.0,150.0
@@ -8219,7 +8185,6 @@ Hegde Nagar,2,1340.0,2.0,72.0
 Attibele,2,1175.0,2.0,29.38
 Benson Town,4,3569.0,4.0,600.0
 Sarjapur,2,1240.0,2.0,43.1
-V.V Puram,3,,2.0,150.0
 Electronic City,3,1470.0,2.0,44.1
 7th Phase JP Nagar,3,1680.0,3.0,117.0
 Sri Sai Layout,2,1000.0,2.0,35.0
@@ -9361,7 +9326,6 @@ Electronic City,2,1108.0,2.0,63.0
 Frazer Town,2,1180.0,2.0,105.0
 Hennur Road,3,1445.0,2.0,83.0
 Vasanthapura,2,1500.0,2.0,65.0
-Ramamurthy Nagar,1,,1.0,48.0
 KR Puram,2,1085.0,2.0,46.5
 Rachenahalli,2,1050.0,2.0,52.08
 Kadugodi,4,2760.0,4.0,290.0
@@ -9456,7 +9420,6 @@ Thubarahalli,2,975.0,2.0,50.0
 ISRO Layout,2,1050.0,2.0,51.0
 HSR Layout,9,1200.0,9.0,350.0
 "Jayanagar, ",3,1903.0,3.0,165.0
-Bommenahalli,3,,3.0,232.0
 Asthagrama Layout,2,1200.0,2.0,38.0
 Avalahalli,4,2996.0,4.0,200.0
 Manayata Tech Park,4,3400.0,4.0,200.0
@@ -9670,7 +9633,6 @@ Hennur,3,1655.0,2.0,70.5
 2nd Phase Judicial Layout,2,900.0,2.0,41.0
 Somasundara Palya,3,1600.0,3.0,69.0
 Neelamangala,2,1163.0,2.0,68.0
-Yelahanka New Town,1,,2.0,18.0
 Hennur Road,3,1654.0,3.0,97.8
 Pragathi Nagar,1,801.0,1.0,33.645
 Ngef Layout,4,2100.0,3.0,1000.0
@@ -10423,10 +10385,8 @@ Kanakapura,3,1290.0,2.0,51.1
 Rajaji Nagar,5,7514.0,7.0,1500.0
 Sarjapur  Road,3,1881.0,3.0,145.0
 Garudachar Palya,2,1150.0,2.0,52.0
-2 Bedroom Furnished Farm House in Kolar Road,2,,2.0,200.0
 Sarjapur,3,2690.0,3.0,295.0
 Kanakpura Road,3,1200.0,2.0,42.0
-Rajapura,2,,2.0,40.0
 Dairy Circle,3,2735.0,4.0,340.0
 Austin Town,2,950.0,2.0,65.0
 Bommasandra Industrial Area,3,1491.0,3.0,40.5
@@ -11250,7 +11210,6 @@ Hennur Road,2,1232.0,2.0,69.61
 Kalena Agrahara,2,900.0,2.0,40.0
 Sarjapura - Attibele Road,1,740.0,1.0,23.65
 Hebbal,3,1920.0,3.0,134.0
-Arishinakunte,1,,1.0,170.0
 Bannerghatta Road,3,1550.0,3.0,96.0
 Gunjur,3,1588.0,2.0,90.0
 Rajaji Nagar,3,2300.0,4.0,240.0
@@ -11543,7 +11502,6 @@ Sarjapur  Road,3,1314.0,2.0,70.44
 Hal old airport road,3,1200.0,3.0,110.0
 Basavangudi,6,1214.0,3.0,220.0
 Hosa Road,3,1513.0,3.0,103.0
-arudi,3,,2.0,80.0
 Vittasandra,2,1246.0,2.0,67.5
 Ganga Nagar,1,705.0,1.0,65.0
 Dasarahalli,2,1220.0,2.0,62.0
@@ -12114,7 +12072,6 @@ Kothanur,3,1790.0,3.0,105.0
 Ramagondanahalli,2,1125.0,2.0,75.0
 Hennur,3,1830.5,3.0,84.205
 Marathahalli,2,1100.0,2.0,50.0
-7th Phase JP Nagar,2,,2.0,51.0
 Banaswadi,2,1105.0,2.0,57.0
 Thanisandra,2,1110.0,2.0,46.5
 Dasanapura,1,708.0,1.0,41.0
@@ -12180,7 +12137,6 @@ HRBR Layout,2,1300.0,2.0,90.0
 Hennur Road,3,1891.0,3.0,110.0
 Hennur Road,3,1735.0,3.0,78.0
 Bisuvanahalli,3,1075.0,2.0,33.0
-Gowdanapalya,5,,5.0,75.0
 Kumaraswami Layout,7,2040.0,4.0,123.0
 Uttarahalli,3,1590.0,3.0,57.0
 Jayanti Nagar,5,1600.0,5.0,140.0
@@ -12488,7 +12444,6 @@ Budigere,2,1153.0,2.0,56.55
 Hegde Nagar,3,2087.01,4.0,160.0
 LB Shastri Nagar,2,1200.0,2.0,47.0
 HSR Layout,3,1844.0,3.0,89.0
-Hosa Road,3,,3.0,110.0
 Begur Road,2,1215.0,2.0,43.75
 Sarjapur  Road,2,1194.0,2.0,57.0
 Chennappa Layout,2,1220.0,2.0,52.0
@@ -12580,7 +12535,6 @@ Electronic City,2,1125.0,2.0,28.13
 Kogilu,2,1140.0,2.0,50.66
 Sarjapur  Road,4,3150.0,4.0,500.0
 Kundalahalli,2,1315.0,2.0,74.0
-Billamaranahalli,2,,2.0,150.0
 Bellandur,3,1435.0,2.0,115.0
 Haralur Road,2,1092.0,2.0,44.0
 Kadugodi,2,1314.0,2.0,80.0
